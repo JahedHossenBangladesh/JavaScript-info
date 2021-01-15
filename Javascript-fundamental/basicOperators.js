@@ -44,3 +44,12 @@ let n = 2;
 n += 5;
 n *= 2 + 2;
 console.log("value of n =", n);
+// increment and decrement
+
+let jahed = 2;
+jahed++;
+console.log("increment", jahed);
+jahed--;
+console.log("decrement", jahed);
+console.log(++jahed);
+//increment and decrement can be put before and after of the value;
