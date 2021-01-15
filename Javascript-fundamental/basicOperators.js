@@ -10,3 +10,5 @@ console.log(x - y);
 // the math  will be addition Subtraction Multiplication Reminder Exponentiation
 // Reminder %
 console.log(5 % 2);
+// Exponentiation
+console.log("2 multiplied 4 times ", 2 ** 4);
