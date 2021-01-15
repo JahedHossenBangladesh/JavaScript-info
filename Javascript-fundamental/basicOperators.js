@@ -73,3 +73,13 @@ console.log(++jahed);
 // comma operators
 let o = (1 + 2, 4 + 3);
 console.log(o);
+// task
+let taskA = 1;
+let taskB = 1;
+console.log("++taskA", ++taskA);
+console.log("taskB++", taskB++);
+// task 2
+let taska = 2;
+let taskx = 1 + (taska *= 2);
+console.log("taska", taska);
+console.log("taskx", taskx);
