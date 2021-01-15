@@ -32,6 +32,6 @@ console.log(knowTheType);
 
 //Task
 let name = "Jahed";
-console.log(`age ${22}`); // 22
+console.log(`age ${22}`); //age 22
 console.log(`hello ${"name"}`); // hello name
 console.log(`My name is ${name}`); //My name is Jahed
