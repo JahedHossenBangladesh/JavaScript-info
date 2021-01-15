@@ -12,3 +12,8 @@ console.log(x - y);
 console.log(5 % 2);
 // Exponentiation
 console.log("2 multiplied 4 times ", 2 ** 4);
+
+// sting concatenation with binary
+let myName = "jahed " + " hossen";
+console.log(myName);
+console.log("also '1' + 2 = ", "1" + 2);
