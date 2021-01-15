@@ -17,3 +17,24 @@ console.log("2 multiplied 4 times ", 2 ** 4);
 let myName = "jahed " + " hossen";
 console.log(myName);
 console.log("also '1' + 2 = ", "1" + 2);
+console.log("strange things in concat is ", "1" + 2 + 2);
+// Numeric conversion , unary +
+console.log(+x);
+let z = -2;
+console.log(+z);
+
+console.log(+true);
+console.log(+"");
+
+let orange = "2";
+let apple = "4";
+console.log(orange + apple);
+
+//  = is call assignment
+let p = 2 * 2 + 1;
+console.log(x);
+let c = 4 - (a = x - y);
+console.log(c);
+let j, k, l;
+j = k = l = 2 + 2;
+console.log("k =", k);
