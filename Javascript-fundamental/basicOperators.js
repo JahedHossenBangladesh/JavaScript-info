@@ -38,3 +38,9 @@ console.log(c);
 let j, k, l;
 j = k = l = 2 + 2;
 console.log("k =", k);
+
+// modify in place
+let n = 2;
+n += 5;
+n *= 2 + 2;
+console.log("value of n =", n);
