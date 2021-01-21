@@ -47,3 +47,9 @@ function checkAge(age) {
 }
 let myAge = checkAge(17);
 console.log(myAge);
+
+function min(a, b) {
+  return a < b ? a : b;
+}
+let heighNumber = min(12, 22);
+console.log(heighNumber);
