@@ -32,3 +32,10 @@ function alternative(text) {
   console.log(text);
 }
 alternative();
+
+// return value
+function sum(a, b) {
+  return a + b;
+}
+let result1 = sum(2, 4);
+console.log(result1);
