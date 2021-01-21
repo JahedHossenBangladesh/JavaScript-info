@@ -39,3 +39,11 @@ function sum(a, b) {
 }
 let result1 = sum(2, 4);
 console.log(result1);
+
+// with out return function is undefine;
+
+function checkAge(age) {
+  return age > 18 ? `myage is  ${age}` : "do you have id";
+}
+let myAge = checkAge(17);
+console.log(myAge);
