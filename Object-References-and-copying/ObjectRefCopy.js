@@ -9,3 +9,8 @@ let userDetail = userInfo;
 userDetail.name = "John";
 
 console.log(userDetail);
+
+let a = {};
+let b = {};
+let c = a == b;
+console.log(c);
