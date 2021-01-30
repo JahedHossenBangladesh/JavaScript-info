@@ -27,3 +27,16 @@ for (key in newUser) {
 clone.age = 40;
 clone.name = "Banuni";
 console.log(clone);
+
+let otherUser = {
+  name: "Kaleda",
+  sizes: {
+    height: 130,
+    width: 50,
+  },
+};
+console.log(otherUser.sizes.height);
+
+let cloning = Object.assign({}, otherUser);
+
+console.log("the cloning", cloning);
