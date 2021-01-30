@@ -40,3 +40,9 @@ console.log(otherUser.sizes.height);
 let cloning = Object.assign({}, otherUser);
 
 console.log("the cloning", cloning);
+
+const lastUser = {
+  name: "bilkis",
+};
+lastUser.name = "Beguni";
+console.log(lastUser);
