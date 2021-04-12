@@ -19,3 +19,14 @@ let guestLi= "Guests *John";
 
 let  guest = "Guests:\n * John\n * Pete\n * Mary";
 console.log(guest);
+
+
+
+
+
+
+
+
+
+
+
