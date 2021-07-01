@@ -37,7 +37,7 @@ const typeNumber = 2;
 
 switch(typeNumber) {
     case 0: 
-    case 1: console.log('it is 0 or one ');
+    case 1: console.log(`this is ${typeNumber}`);
     break;
     case 2: console.log('it is 2');
     break;
