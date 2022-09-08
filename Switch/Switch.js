@@ -15,7 +15,7 @@ let b = '1';
 let c = 0;
 
 switch(+b) {
-case c + 1 : console.log('it is all right')
+case c + 1 : console.log(typeof b)
 break;
 case 3: console.log('it is 3');
 break;
